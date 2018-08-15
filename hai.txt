@@ -1,4 +1,4 @@
 computer is a device
 something about ram
 ram is part of primary storage
-Command
+Command is a git branch that i created
