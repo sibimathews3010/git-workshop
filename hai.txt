@@ -1,3 +1,4 @@
 computer is a device
 something about ram
 ram is part of primary storage
+Command
